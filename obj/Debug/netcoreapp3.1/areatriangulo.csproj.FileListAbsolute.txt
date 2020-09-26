@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\bin\Debug\netcoreapp3.1\areatriangulo.exe
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\bin\Debug\netcoreapp3.1\areatriangulo.deps.json
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\bin\Debug\netcoreapp3.1\areatriangulo.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\bin\Debug\netcoreapp3.1\areatriangulo.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\bin\Debug\netcoreapp3.1\areatriangulo.dll
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\bin\Debug\netcoreapp3.1\areatriangulo.pdb
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\obj\Debug\netcoreapp3.1\areatriangulo.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\obj\Debug\netcoreapp3.1\areatriangulo.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\obj\Debug\netcoreapp3.1\areatriangulo.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\obj\Debug\netcoreapp3.1\areatriangulo.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\obj\Debug\netcoreapp3.1\areatriangulo.dll
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\obj\Debug\netcoreapp3.1\areatriangulo.pdb
+C:\Users\kelly\Documents\atividadespc1\areatriangulo\obj\Debug\netcoreapp3.1\areatriangulo.genruntimeconfig.cache
